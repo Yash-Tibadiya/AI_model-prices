@@ -27,16 +27,18 @@ ChatGPT o3-mini,$1.10,$4.40
 ChatGPT o4-mini,$1.10,$4.40
 Gemini 2.5 Pro,$1.25,$10.00
 ChatGPT 4.1,$2.00,$8.00
+ChatGPT o3,$2.00,$8.00
 ChatGPT 4o,$2.50,$10.00
 Claude 3.5 Sonnet,$3.00,$15.00
 Claude 3.7 Sonnet,$3.00,$15.00
 Claude 4 Sonnet,$3.00,$15.00
 Grok 3,$3.00,$15.00
-ChatGPT o3,$10.00,$40.00
+ChatGPT Image 1,$5.00,$40.00
 ChatGPT o1,$15.00,$60.00
 Claude 4 Opus,$15.00,$75.00
+ChatGPT o3-pro,$20.00,$80.00
 ChatGPT 4.5,$75.00,$150.00
-O1 Pro,$150.00,$600.00`
+ChatGPT O1-Pro,$150.00,$600.00`;
 
 type ModelPrice = {
   Name: string
